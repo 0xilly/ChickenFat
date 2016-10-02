@@ -1,0 +1,3 @@
+[submodule "src/main/java/us/illyohs/chickenfat/api"]
+	path = src/main/java/us/illyohs/chickenfat/api
+	url = git@github.com:Illyohs/ChickenFatAPI.git

@@ -1,0 +1,36 @@
+- Premise
+    You notice that you and a few other mobs are starting to get out of shape
+    and need some exercise. Using your ingenuity you make some exercise
+    equipment to get rid of that excess "chicken fat"(https://youtu.be/EFofqe26t-4).
+    While building equipment you get the idea that you can extract energy from
+    your workout.
+
+- Equipment
+ - Treadmill
+   - The belt needs to be replaced every X miles/kilometers depending on the
+     type of belt.
+ - Stairmaster
+   - The Stairs will need to be replaced every X amount of steps depending on
+     the type of stairs.
+ - Hamster Wheel
+   - The wheal will need to be replaced every X rotations depending on the type
+     of wheel.
+
+- Energy & Exercise
+ - Energy is called workout units(WU)
+ - Energy is dependant on the on the mobs/players condition
+   - Hunger
+   - Thirst
+   - Stamina
+ - Some mobs produce more energy than others while other mobs last longer than
+   others i.e. A horse might produce less energy than a running ocelot but will
+   run for a longer time.
+ - Over exercising can cause death.
+ - No matter the type of belt/stair/wheel the amount of energy outputted is the
+   same the type of belt/stair/wheel only determines durability.
+
+- Not sure if I should overrideRenderer
+ - Power storage
+ - Cables
+ - more cowbell
+ - exercise gym in a village
